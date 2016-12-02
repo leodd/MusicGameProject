@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<music>
+    <name>test music</name>
+    <cover link="">test_cover</cover>
+    <audio link="">test_music</audio>
+    <author>Ne包子</author>
+    <time>3.20</time>
+    <maxtime>20000</maxtime>
+    <beatmap>
+        <name mode="1" difficulty="2" link="">test_music_easy</name>
+    </beatmap>
+</music>

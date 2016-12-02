@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beatmap name="test_music_easy" maxtime="10000" maxkey="100">
+    <timeline time="100">
+        <key type="1" weight="1" position="4"></key>
+        <key type="1" weight="2" position="5"></key>
+        <key type="1" weight="2" position="5"></key>
+    </timeline>
+    <timeline time="200">
+        <key type="1" weight="1" position="4"></key>
+    </timeline>
+</beatmap>
